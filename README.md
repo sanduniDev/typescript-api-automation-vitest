@@ -1,5 +1,3 @@
-# typescript-api-automation-vitest
-
 # ⚡ TypeScript REST API Automation Framework (Vitest)
 
 <p align="center">
