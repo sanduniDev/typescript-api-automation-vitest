@@ -325,7 +325,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-**Your Name** - [@sanduniDev](https://github.com/sanduniDev)
+**Name** - [@sanduniDev](https://github.com/sanduniDev)
 
 Project Link: [https://github.com/sanduniDev/typescript-api-automation-vitest](https://github.com/sanduniDev/typescript-api-automation-vitest)
 
