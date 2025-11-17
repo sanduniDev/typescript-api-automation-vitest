@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm test)",
+      "Bash(test:*)",
+      "Bash(echo:*)",
+      "Bash(powershell -Command \"Get-ChildItem Env: | Where-Object { $_Name -eq ''BASE_URL'' } | Format-List\")",
+      "Bash(node -e:*)",
+      "Bash(npm test:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

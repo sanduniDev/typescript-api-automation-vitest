@@ -1,0 +1,5 @@
+{
+  "userId": 1,
+  "title": "External Post Title",
+  "body": "This post data is loaded from an external JSON file for data-driven testing"
+}
